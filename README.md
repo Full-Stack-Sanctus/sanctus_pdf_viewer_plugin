@@ -21,7 +21,7 @@ dependencies:
   pdf_viewer_plugin:
     git:
       url: https://github.com/Full-Stack-Sanctus/sanctus_pdf_viewer_plugin.git
-
+```yaml
 
 
 ## 🚀 Usage
